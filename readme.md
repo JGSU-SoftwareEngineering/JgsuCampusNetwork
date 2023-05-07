@@ -1,4 +1,5 @@
-# JgsuSchoolNetwork
+# JgsuCampusNetwork
+
 Applicable to Jinggangshan University campus network login.
 
 适用于井冈山大学校园网登录
